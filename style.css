@@ -1,0 +1,30 @@
+body {background-color: blue;}
+.center {text-align: center;}
+#wrapper {width: 80%;
+margin: auto;
+background-color: red;
+box-shadow: 5px 10px #888888;}
+div {width: 90%;
+margin: auto;}
+.itembox {border: 5px solid red;
+border-radius:2px;
+box-shadow: 5px 10px #ffffff;
+background-color: rgb(9, 248, 61);
+color: rgb(89, 3, 248);
+padding: 20%;}
+.favorite {border: 2px green;
+border-radius:2px;
+box-shadow: 5px 10px #ffffff;
+background-color: rgb(240, 7, 143);
+color: rgb(0, 0, 0);
+padding: 20%;}
+ol {background: #ff00ff;
+padding: 20px;}
+ul {background: #00ffff;
+padding: 20px;}
+ol li {background: #ffffff;
+padding: 5px;
+margin-left: 20px;}
+ul li {background: red;
+padding: 5px;
+margin-left: 20px;}
